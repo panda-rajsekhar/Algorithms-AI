@@ -109,4 +109,8 @@ This mode helps in:
 
 Inspired by the classic Tower of Hanoi problem, widely used in computer science to demonstrate recursion and algorithmic thinking.
 
-> Bhai end me yahi bolunga ki instagram me reel dikha tha : Tower of Hanoi when childer solve it and when programmers do it , meme attached below : 
+> Bhai end me yahi bolunga ki instagram me reel dikha tha : Tower of Hanoi when childer solve it and when programmers do it , meme attached below :
+
+![Tower of Hanoi Meme](meme.png)
+
+> Made it this far ? Soo the code is needing some improvements will do em shortly ! 
